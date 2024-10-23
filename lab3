@@ -1,0 +1,6 @@
+>> obd=double(ob)/255;
+>> wyj=obd.^(1/x);
+>> imshow(obd)
+>> imshow(wyj)
+>> wyj2=obd.^(1/1.7);
+>> imshow(wyj2)
